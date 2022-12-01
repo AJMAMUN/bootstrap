@@ -19,3 +19,22 @@
 .dolar{
     color: #FF136F;
 }
+.cat1{
+    background-color: rgb(255, 204, 0);
+}
+.cat2{
+    background-color: hotpink;
+}
+.cat3{
+    background-color: blue;
+}
+.row,.cat1,.cat2,.cat3{
+    padding: 20px;
+    border-radius: 10px;
+}
+.catgories h1{
+    color: white;
+}
+.catgories img{
+    width: 100px;
+}
